@@ -1,6 +1,6 @@
 {
   "name": "use-callback",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple function hook for React that returns an identifical function",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
