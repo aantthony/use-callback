@@ -1,0 +1,26 @@
+{
+  "name": "use-callback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aantthony/use-callback.git"
+  },
+  "author": "Anthony Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aantthony/use-callback/issues"
+  },
+  "homepage": "https://github.com/aantthony/use-callback#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.34",
+    "typescript": "^3.8.3"
+  }
+}
