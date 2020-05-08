@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "dev": "parcel example/index.html",
     "build": "tsc",
     "prepublish": "npm run build"
   },
@@ -18,12 +19,17 @@
     "url": "https://github.com/aantthony/use-callback/issues"
   },
   "homepage": "https://github.com/aantthony/use-callback#readme",
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.13.1"
+  },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
     "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.7",
+    "parcel-bundler": "^1.12.4",
+    "react-dom": "^16.13.1",
     "typescript": "^3.8.3"
   }
 }
