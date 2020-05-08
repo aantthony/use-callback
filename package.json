@@ -18,8 +18,9 @@
     "url": "https://github.com/aantthony/use-callback/issues"
   },
   "homepage": "https://github.com/aantthony/use-callback#readme",
-  "dependencies": {
-    "react": "^16.13.1"
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
     "@types/react": "^16.9.34",
